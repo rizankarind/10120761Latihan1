@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">10120761Latihan1</string>
+    <string name="digiteam">DigiTeam</string>
+    <string name="checkin">Checkin</string>
+    <string name="laporan_kamu">Laporan Kamu</string>
+    <string name="buat_laporan">Buat Laporan</string>
+    <string name="kata1">Digital Together Everyone Achieve More</string>
+    <string name="kata2">Jabar Digital Service</string>
+    <string name="identitas">Muhamad Rizan Karindra 10120761</string>
+    <string name="ui_designer">UI Designer</string>
+    <string name="jam_kerja_bulan_ini">Jam Kerja Bulan Ini</string>
+    <string name="kata3">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="waktu">130.53 JAM</string>
+    <string name="kata4">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="izin">Izin</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="laporan">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+</resources>
